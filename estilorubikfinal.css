@@ -1,0 +1,482 @@
+@charset "utf-8";
+*{margin: 0;
+padding: 0}
+
+#contenedor_all {
+	width: 1920px;
+	height: 7723px;
+}
+
+#Contenedor_1 {
+	width: 1920px;
+	height: 60px;
+	background-color: #000000;
+}
+
+.marca_barra_inicial {
+    width: 960px;
+    height: 50px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.menu {
+	height: 50px;
+	background-color: #E96078;
+}
+
+#contendor_2 {
+	width: 1920px;
+	height: 1200px;
+	float: left;	
+}
+
+#borde_turqueza {
+	height: 1200px;
+	width: 81px;
+	background-color: #44AA9A; 
+	float: left;
+}
+
+#marca_1 {
+    height: 850px;
+    width: 922px;
+    background-color: #44AA9A;
+    float: left;
+    border-bottom-right-radius: 500px;
+}
+
+.marca_contenedor_marca_1 {
+    padding-top: 130px;
+    padding-left: 200px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+.texto_contenedor_marca_1 {
+    height: 450px;
+    padding-left: 200px;
+    padding-right: 245px;
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 14pt;
+    font-family: "Noto Sans";
+}
+
+#imagen_over_1 {
+	width: 922px;
+	height: 300px;
+	float: left;
+}
+
+#porque_somos_gente_que_crea {
+    width: 1700px;
+    height: 308px;
+    float: left;
+    font-size: 30pt;
+    text-align: left;
+}
+
+.texto_porque_somos {
+    float: left;
+    width: 820px;
+    height: 150px;
+    color: #31579B;
+    font-family: "Noto Sans";
+    padding-left: 80px;
+    padding-top: 100px;
+}
+
+.imagen_porque_somos {
+    float: left;
+    width: 600px;
+    height: 240px;
+    padding-left: 140px;
+    padding-top: 0px;
+}
+
+#contendeor_3 {
+	width: 1920px;
+	height: 520px;
+	float: left;	
+}
+
+.barra_turqueza_2 {
+	width: 81px;
+	height: 520px;
+	background-color:#44AB9B;
+	float: left;
+}
+#contenedor_de_linea_morada {
+    width: 1147px;
+    height: 495px;
+    float: left;
+    border: 12px solid #B63B95;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+
+.quien_soy {
+	width: 584px;
+    height: 30px;
+    float: left;
+    padding-left: 100px;
+    padding-top: 90px;
+}
+.yo_como_disenadora {
+	width: 584px;
+    height: 60px;
+    float: left;
+    padding-left: 100px;
+    font-family: "Elegant Sans";
+    font-size: 40px;
+}
+.texto_quien_soy {
+    width: 584px;
+    height: 300px;
+    float: left;
+    padding-left: 100px;
+    font-family: roboto;
+}
+
+#contenedor_4 {
+	width: 1920px;
+	height: 1277px;
+	float: left;
+}
+
+#barra_turqueza_3 {
+	float: left;
+	width: 472px;
+	height: 768px;
+}
+
+.barra_turqueza_3 {
+	width: 81px;
+	height: 708px;
+	background-color:#44AB9B;
+	float: left;
+}
+.espacio_blanco_1 {
+	width: 391px;
+	height: 708px;
+	float: left;
+}
+.imagen_bara_turqueza {
+	float: left;
+	width: 472px;
+	height: 167px;
+}
+
+#proceso_creativo {
+	float: left;
+	width: 1443px;
+	height: 875px;
+}
+
+.espacio_en_blanco_2 {
+	height: 139px;
+	width: 1433px;
+}
+.contenedor_pequeno {
+    width: 1433px;
+    height: 708px;
+    border: 10pt solid #44AA9A;
+    border-top-left-radius: 400px;
+    border-top-right-radius: 0px;
+}
+
+.ideas {
+    float: left;
+    width: 477px;
+    height: 713px;
+    border-top-left-radius: 500px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.imagen {
+    height: 200px;
+    text-align: center;
+    padding-top: 130px;
+    padding-right: 0px;
+}
+.ideas_ideas {
+    height: 74px;
+    text-align: center;
+}
+.donde_nacen {
+    height: 62px;
+    text-align: center;
+}
+.texto_ideas {
+    height: 80px;
+    padding-left: 100px;
+    padding-top: 87px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    background-color: #44AA9A;
+    color: #FFFFFF;
+}
+
+.bocetos {
+	float: left;
+	width: 477px;
+	height: 713px;
+}
+
+.imagen {
+}
+.ideas {
+}
+.ideas_ideas {
+}
+.donde_nacen {
+}
+.texto_ideas {
+}
+
+.digitalizacion {
+	float: left;  
+	width: 477px;
+	height: 713px;
+}
+
+
+#palabras {
+	width: 1920px;
+	height: 400px;
+	float: left;
+}
+
+
+.espacio_en_blanco_3 {
+	height: 135px;
+}
+
+#palabras_varias {
+    height: 106px;
+    border: 10pt solid #B53B94;
+}
+
+.espacio_en_blanco_3 {
+}
+
+.palabras_all {
+    float: left;
+    width: 630.90px;
+    height: 105px;
+    text-align: center;
+}
+.palabras_all {
+}
+.palabras_all {
+}
+
+#contenedor_5 {
+  float: left;
+  height: 1051px;
+  width: 1920px;
+}
+
+#adobe {
+  float: left;
+  height: 1051px;
+  width: 464px;
+}
+
+#espacio_blanco_5 {
+  height: 786px;
+}
+
+#texto_adobe {
+    height: 182px;
+    text-align: center;
+}
+
+#barra_turqueza_4 {
+  width: 464px;
+  height: 81px;
+  background-color: #44AA9A;
+}
+
+#software {
+  float: left;
+  height: 1051px;
+  width: 490px;
+}
+
+#aplicaciones_diseno {
+  float: left;
+  height: 1051px;
+  width: 966px;
+}
+
+#contenedor_software {
+	height: 760px;
+	border: 10pt solid #44AA9A;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 0px;
+}
+
+#imagen_software {
+    height: 400px;
+    padding-left: 60px;
+    padding-top: 80px;
+    padding-right: 0px;
+}
+#texto_software {
+	height: 80px;
+	padding-left: 60px;
+}
+#destrezas {
+	height: 116px;
+    padding-left: 60px;
+}
+
+#espacio_blanco_6 {
+	height: 182px;
+}
+#barra_turqueza_5 {
+	height: 81px;
+	background-color: #44AA9A;
+}
+
+.aplicaciones {
+	float: left;
+	height: 785px;
+	width: 964px;
+	background-color: #44AA9A;
+}
+#imagen_barra_turqueza {
+    float: left;
+    height: 265px;
+    width: 470px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#espacio_blanco_7 {
+	float: left;
+	height: 265px;
+	width: 494px;
+
+}
+
+.nombre_aplicacion {
+    float: left;
+    height: 58px;
+    width: 964px;
+    color: #FFFFFF;
+}
+.imagen_aplicacion {
+    float: left;
+    height: 118px;
+    width: 188px;
+    color: #FFFFFF;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.contenedor_porcentaje {
+	float: left;
+	height: 138px;
+	width: 245px;
+}
+.texto_aplicacion {
+    float: left;
+    height: 138px;
+    width: 428px;
+    color: #FFFFFF;
+	padding-right: 60px;
+}
+
+#contenedor_6 {
+	float: left;
+	height: 2195px;
+	width: 1915px;
+}
+
+#proyectos {
+    height: 252px;
+    width: 1916px;
+    text-align: center;
+}
+#diseno_esditorial {
+    height: 252px;
+    width: 1916px;
+    text-align: center;
+}
+.proyecto_editorial {
+    float: left;
+    height: 1690px;
+    width: 600px;
+    margin-left: 300px;
+    margin-right: auto;
+    text-align: center;
+}
+.proyecto_editorial {
+}
+
+.imagen_editorial_uno {
+    width: 350px;
+    height: 350px;
+    cursor: pointer;
+    overflow: scroll;
+    position: relative;
+    float: left;
+    border-radius: 200px;
+    margin: 20px;
+	padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+.texto_editorial_uno {
+    float: left;
+    width: 300px;
+    height: 240px;
+    background-color:#B53B94;
+    border-radius: 400px;
+    margin-left: 20px;
+    margin-right: auto;
+    color: #FFFFFF;
+    padding-top: 160px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+}
+.imagen_editorial_uno {
+}
+.texto_editorial_uno {
+}
+
+.proyectos_2 {
+	float: left;
+	height: 855px;
+	width: 599px;
+    margin-right: auto;
+}
+
+.texto_proyectos_2 {
+	height: 190px;
+	width: 599px;
+}
+.imagen_proyectos_2 {
+    height: 400px;
+    width: 400px;
+    border-radius: 500px;
+	background-color: #C58485;
+	 margin-left: 20px;
+    margin-right: auto;
+}
+
+.proyectos_2{
+	
+}
+
+#contenedor_7 {
+	float: left;
+	width: 1915px;
+}
+
+
+
